@@ -1,0 +1,16 @@
+Data Quality Assessment
+
+1. All 10 datasets loaded successfully.
+
+2. No duplicate records detected.
+
+3. Missing values detected only in:
+   - 04_monthly_sip_inflows.csv
+   - Column: yoy_growth_pct
+   - Missing Count: 12
+
+4. Missing values are expected because Year-over-Year growth
+   cannot be computed for the initial months where prior-year
+   data is unavailable.
+
+5. Overall dataset quality is high and suitable for analysis.

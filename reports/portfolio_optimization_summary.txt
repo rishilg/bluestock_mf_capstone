@@ -1,0 +1,30 @@
+Portfolio Optimization Summary
+
+Method:
+Markowitz Efficient Frontier
+
+Selected Funds:
+1. SBI Bluechip
+2. SBI Small Cap
+3. ICICI Midcap
+4. Kotak Flexicap
+5. Mirae Tax Saver
+
+Optimal Weights:
+
+SBI Bluechip     : 28.04%
+Kotak Flexicap   : 25.82%
+Mirae Tax Saver  : 18.89%
+ICICI Midcap     : 17.00%
+SBI Small Cap    : 10.25%
+
+Portfolio Statistics:
+
+Expected Return : 26.94%
+Portfolio Risk  : 7.51%
+Sharpe Ratio    : 2.92
+
+Conclusion:
+The optimized portfolio balances risk and return
+while maintaining diversification across multiple
+fund categories.

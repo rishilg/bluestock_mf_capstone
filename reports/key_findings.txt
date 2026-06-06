@@ -1,0 +1,29 @@
+Key Findings
+
+1. Large Cap and Mid Cap funds dominate the dataset.
+
+2. Banking sector has the highest portfolio allocation.
+
+3. Average Mutual Fund CAGR:
+16.13%
+
+4. Average Volatility:
+14.94%
+
+5. Average Sharpe Ratio:
+0.92
+
+6. Optimized Portfolio Return:
+26.94%
+
+7. Optimized Portfolio Risk:
+7.51%
+
+8. Optimized Portfolio Sharpe Ratio:
+2.92
+
+9. Portfolio optimization significantly improved
+risk-adjusted returns.
+
+10. Diversification across categories and sectors
+reduces concentration risk.

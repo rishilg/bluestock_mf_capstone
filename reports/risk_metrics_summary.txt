@@ -1,0 +1,46 @@
+Risk Metrics Used
+
+1. Volatility
+Measures the degree of variation in returns.
+
+Formula:
+Standard Deviation of Returns
+
+Interpretation:
+Higher volatility indicates higher investment risk.
+
+------------------------------------------------
+
+2. Sharpe Ratio
+
+Formula:
+(Expected Return - Risk Free Rate) / Volatility
+
+Interpretation:
+Measures risk-adjusted returns.
+
+Higher Sharpe Ratio is preferred.
+
+------------------------------------------------
+
+3. Maximum Drawdown
+
+Formula:
+(Maximum Peak-to-Trough Decline)
+
+Interpretation:
+Measures worst historical loss experienced by an investor.
+
+------------------------------------------------
+
+4. Value at Risk (VaR 95%)
+
+Interpretation:
+Estimated maximum loss over a period with 95%
+confidence.
+
+Example:
+VaR = -2%
+
+Means there is only a 5% probability of losing
+more than 2%.

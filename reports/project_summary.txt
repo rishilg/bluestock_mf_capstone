@@ -1,0 +1,40 @@
+Mutual Fund Analytics Capstone Project
+
+Project Objective:
+To analyze mutual fund performance, risk characteristics,
+portfolio allocation, and sector exposure using Python,
+SQL, and Power BI.
+
+Datasets Used:
+1. Fund Master
+2. NAV History
+3. AUM by Fund House
+4. Monthly SIP Inflows
+5. Category Inflows
+6. Industry Folio Count
+7. Scheme Performance
+8. Investor Transactions
+9. Portfolio Holdings
+10. Benchmark Indices
+
+Key Metrics Computed:
+- CAGR
+- Volatility
+- Sharpe Ratio
+- Maximum Drawdown
+- Value at Risk (VaR 95%)
+
+Portfolio Optimization:
+Markowitz Mean-Variance Optimization
+
+Dashboard Pages:
+1. Executive Overview
+2. Fund Performance Analysis
+3. Performance Filters & Deep Dive
+4. Risk Analytics Insights
+5. Portfolio Optimization
+6. Sector Analysis
+
+Outcome:
+Successfully developed an end-to-end mutual fund analytics
+dashboard providing actionable investment insights.

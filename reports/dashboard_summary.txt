@@ -1,0 +1,52 @@
+Power BI Dashboard Summary
+
+Page 1:
+Executive Overview
+- Total Funds
+- Fund Houses
+- Categories
+- Expense Ratio Analysis
+- Risk Category Analysis
+
+------------------------------------------------
+
+Page 2:
+Fund Performance Analysis
+- CAGR Analysis
+- Sharpe Ratio Analysis
+- Volatility Analysis
+- Risk vs Return Scatter Plot
+
+------------------------------------------------
+
+Page 3:
+Performance Filters & Deep Dive
+- Fund House Filters
+- Category Filters
+- Scheme Explorer
+
+------------------------------------------------
+
+Page 4:
+Risk Analytics Insights
+- Volatility
+- Sharpe Ratio
+- Maximum Drawdown
+- VaR Analysis
+
+------------------------------------------------
+
+Page 5:
+Portfolio Optimization
+- Expected Return
+- Risk
+- Sharpe Ratio
+- Optimal Allocation
+
+------------------------------------------------
+
+Page 6:
+Sector Analysis
+- Sector Allocation
+- Exposure Breakdown
+- Treemap Visualization
